@@ -9,7 +9,7 @@ A application in Ruby that will offload a ships cargo as it travels from port to
 * `irb` #use program see demo below
 
 # Class Diagram
-![classes](ClassDiagrams.JPG)
+![classes](images/ClassDiagrams.JPG)
 
 # User Stories 
 ```
